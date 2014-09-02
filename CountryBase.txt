@@ -1,0 +1,249 @@
+countryname,iso_alpha3,countrynumericcode,regionalbureau,regionalmission,regionalmissioncode,usaidpresencetype,bilateralmission,nonpresencecountry,stip,cityofbilateralmission,latitude,longitude
+Afghanistan,AFG,4,Afghanistan and Pakistan,,,1,1,0,0,Kabul,34.528454,69.1717
+Albania,ALB,8,Europe and Eurasia,Regional Service Center,RSC,1,1,0,0,Tirana,41.33165,19.8318
+Antarctica,ATA,10,,,,3,,,,,,
+Algeria,DZA,12,Middle East,Office of Middle East Programs,OMEP,2,0,1,0,,,
+American Samoa,ASM,16,,,,3,,,,,,
+Andorra,AND,20,,,,3,,,,,,
+Angola,AGO,24,Africa,Southern Africa,SA,1,1,0,0,Luanda,-8.8383331,13.234444
+Antigua and Barbuda,ATG,28,Latin America and the Carribean,Barbados and Easter Caribbean,EC,2,0,1,0,,,
+Azerbaijan,AZE,31,Europe and Eurasia,,,1,1,0,0,Baku,40.434952,49.867622
+Argentina,ARG,32,,,,3,,,,,,
+Australia,AUS,36,,,,3,,,,,,
+Austria,AUT,40,,,,3,,,,,,
+Bahamas,BHS,44,,,,3,,,,,,
+Bahrain,BHR,48,,,,3,,,,,,
+Bangladesh,BGD,50,Asia,,,1,1,0,1,Dhaka,23.709921,90.407143
+Armenia,ARM,51,Europe and Eurasia,,,1,1,0,1,Yerevan,40.183334,44.516666
+Barbados,BRB,52,Latin America and the Carribean,Barbados and Easter Caribbean,EC,1,1,0,0,Bridgetown,13.098938,-59.613354
+Belgium,BEL,56,,,,3,,,,,,
+Bermuda,BMU,60,,,,3,,,,,,
+Bhutan,BTN,64,,,,3,,,,,,
+Bolivia,BOL,68,Latin America and the Carribean,South America Regional Program,SARP,1,1,0,0,La Paz,-16.49901,-68.146248
+Bosnia and Herzegovina,BIH,70,Europe and Eurasia,Regional Service Center,RSC,1,1,0,0,Sarajevo,43.856258,18.413076
+Botswana,BWA,72,Africa,Southern Africa,SA,2,0,1,0,,,
+Bouvet Island,NOR,74,,,,3,,,,,,
+Brazil,BRA,76,Latin America and the Carribean,South America Regional Program,SARP,1,1,0,1,Brasilia,-15.780148,-47.929169
+Belize,BLZ,84,,,,3,,,,,,
+British Indian Ocean Territory,IOT,86,,,,3,,,,,,
+Solomon Islands,SLB,90,Asia,Pacific Islands,PI,2,0,1,0,,,
+British Virgin Islands,VGB,92,,,,3,,,,,,
+Brunei,BRN,96,,,,3,,,,,,
+Bulgaria,BGR,100,Europe and Eurasia,Regional Service Center,RSC,1,1,0,0,Sofia,42.697838,23.321671
+Burma,MMR,104,Asia,Regional Development Mission for Asia,RDMA,1,1,0,0,Rangoon,16.799999,96.150002
+Burundi,BDI,108,Africa,East Africa,EA,1,1,0,0,Bujumbura,-3.3762169,29.359348
+Belarus,BLR,112,Europe and Eurasia,"Ukraine, Belarus and Moldova",UBM,1,1,0,0,Minsk,53.900002,27.566668
+Cambodia,KHM,116,Asia,,,1,1,0,0,Phnom Penh,11.558831,104.91744
+Cameroon,CMR,120,Africa,West Africa,WA,2,0,1,0,,,
+Canada,CAN,124,,,,3,,,,,,
+Cape Verde,CPV,132,Africa,West Africa,WA,2,0,1,0,,,
+Cayman Islands,CYM,136,,,,3,,,,,,
+Central African Republic,CAF,140,Africa,East Africa,EA,2,0,1,0,,,
+Sri Lanka,LKA,144,Asia,,,1,1,0,0,Colombo,6.9270792,79.861244
+Chad,TCD,148,Africa,West Africa,WA,2,0,1,0,,,
+Chile,CHL,152,,,,3,,,,,,
+China,CHN,156,Asia,Regional Development Mission for Asia,RDMA,2,0,1,0,,,
+Taiwan,TWN,158,,,,3,,,,,,
+Christmas Island,CXR,162,,,,3,,,,,,
+Cocos-Keeling-Islands,CCK,166,,,,3,,,,,,
+Colombia,COL,170,Latin America and the Carribean,South America Regional Program,SARP,1,1,0,1,Bogota,4.5980558,-74.075836
+Comoros,COM,174,,,,3,,,,,,
+Mayotte,MYT,175,,,,3,,,,,,
+Republic of the Congo,COG,178,Africa,Central Afica Regional Office,CAFR,2,0,1,0,,,
+Democratic Republic of the Congo,COD,180,Africa,Central Afica Regional Office,CAFR,1,1,0,0,Kinshasa,-4.3316669,15.313889
+Cook Islands,COK,184,,,,3,,,,,,
+Costa Rica,CRI,188,Latin America and the Carribean,Central America,CA,2,0,1,0,,,
+Croatia,HRV,191,,,,3,,,,,,
+Cuba,CUB,192,Latin America and the Carribean,,,2,0,1,0,,,
+Cyprus,CYP,196,Europe and Eurasia,Regional Service Center,RSC,1,1,0,0,Nicosia,35.166668,33.366669
+Czech Republic,CZE,203,,,,3,,,,,,
+Benin,BEN,204,Africa,West Africa,WA,1,1,0,0,Cotonou,6.3666668,2.4333329
+Denmark,DNK,208,,,,3,,,,,,
+Dominica,DMA,212,Latin America and the Carribean,Barbados and Easter Caribbean,EC,2,0,1,0,,,
+Dominican Republic,DOM,214,Latin America and the Carribean,,,1,1,0,0,Santo Domingo,18.5,-69.98333
+Ecuador,ECU,218,Latin America and the Carribean,South America Regional Program,SARP,1,1,0,0,Quito,-.217097,-78.516991
+El Salvador,SLV,222,Latin America and the Carribean,Central America,CA,1,1,0,0,San Salvador,13.706881,-89.201813
+Equatorial Guinea,GNQ,226,Africa,Central Afica Regional Office,CAFR,2,0,1,0,,,
+Ethiopia,ETH,231,Africa,East Africa,EA,1,1,0,0,Addis Ababa,9.0227356,38.746799
+Eritrea,ERI,232,,,,3,,,,,,
+Estonia,EST,233,,,,3,,,,,,
+Faroe Islands,FRO,234,,,,3,,,,,,
+Falkland Islands-Islas Malvinas,FLK,238,,,,3,,,,,,
+South Georgia and the South Sandwich Is,SGS,239,,,,3,,,,,,
+Fiji,FJI,242,Asia,Pacific Islands,PI,2,0,1,0,,,
+Finland,FIN,246,,,,3,,,,,,
+France,FRA,250,,,,3,,,,,,
+French Guiana,GUF,254,,,,3,,,,,,
+French Polynesia,PYF,258,,,,3,,,,,,
+French Southern and Antarctic Lands,ATF,260,,,,3,,,,,,
+Djibouti,DJI,262,Africa,East Africa,EA,2,0,1,0,,,
+Gabon,GAB,266,Africa,Central Afica Regional Office,CAFR,2,0,1,0,,,
+Georgia,GEO,268,Europe and Eurasia,,,1,1,0,1,Tbilisi,41.70998,44.792999
+Gambia,GMB,270,Africa,West Africa,WA,2,0,1,0,,,
+Germany,DEU,276,,,,3,,,,,,
+Ghana,GHA,288,Africa,West Africa,WA,1,1,0,0,Accra,5.555717,-.19630601
+Gibraltar,GIB,292,,,,3,,,,,,
+Kiribati,KIR,296,Asia,Pacific Islands,PI,2,0,1,0,,,
+Greece,GRC,300,,,,3,,,,,,
+Greenland,GRL,304,,,,3,,,,,,
+Grenada,GRD,308,Latin America and the Carribean,Barbados and Easter Caribbean,EC,2,0,1,0,,,
+Guadeloupe,GLP,312,,,,3,,,,,,
+Guam,GUM,316,,,,3,,,,,,
+Guatemala,GTM,320,Latin America and the Carribean,Central America,CA,1,1,0,0,Guatemala City,14.624795,-90.532822
+Guinea,GIN,324,Africa,West Africa,WA,1,1,0,0,Conakry,9.5370293,-13.67847
+Guyana,GUY,328,Latin America and the Carribean,,,1,1,0,0,Georgetown,6.8046112,-58.154831
+Haiti,HTI,332,Latin America and the Carribean,,,1,1,0,1,Port-Au-Prince,18.539268,-72.336411
+Heard Island and McDonald Islands,HMD,334,,,,3,,,,,,
+Honduras,HND,340,Latin America and the Carribean,Central America,CA,1,1,0,0,Tegucigalpa,14.0833,-87.216698
+Hong Kong,HKG,344,,,,3,,,,,,
+Hungary,HUN,348,,,,3,,,,,,
+Iceland,ISL,352,,,,3,,,,,,
+India,IND,356,Asia,,,1,1,0,1,New Delhi,28.635307,77.22496
+Indonesia,IDN,360,Asia,,,1,1,0,1,Jakarta,-6.211544,106.84517
+Iran,IRN,364,,,,3,,,,,,
+Iraq,IRQ,368,Middle East,Office of Middle East Programs,OMEP,1,1,0,0,Baghdad,33.325001,44.422001
+Ireland,IRL,372,,,,3,,,,,,
+Israel,ISR,376,,,,3,,,,,,
+West Bank-Gaza,PSE,3760,Middle East,Office of Middle East Programs,OMEP,1,1,0,0,Tel Aviv,32.044556,34.759754
+Italy,ITA,380,,,,3,,,,,,
+Cote d'Ivoire,CIV,384,Africa,West Africa,WA,2,0,1,0,,,
+Jamaica,JAM,388,Latin America and the Carribean,,,1,1,0,0,Kingston,17.992731,-76.792007
+Japan,JPN,392,,,,3,,,,,,
+Johnston Atoll,UMI,396,,,,3,,,,,,
+Kazakhstan,KAZ,398,Asia,Central Asian Republics,CAR,2,0,1,0,,,
+Jordan,JOR,400,Middle East,Office of Middle East Programs,OMEP,1,1,0,1,Amman,31.956577,35.945694
+Kenya,KEN,404,Africa,East Africa,EA,1,1,0,1,Nairobi,-1.292066,36.821945
+North Korea,PRK,408,,,,3,,,,,,
+South Korea,KOR,410,,,,3,,,,,,
+Kuwait,KWT,414,,,,3,,,,,,
+Kyrgyzstan,KGZ,417,Asia,Central Asian Republics,CAR,1,1,0,0,Bishek,42.870022,74.587883
+Laos,LAO,418,Asia,Regional Development Mission for Asia,RDMA,2,0,1,0,,,
+Lebanon,LBN,422,Middle East,Office of Middle East Programs,OMEP,1,1,0,0,Beirut,33.88863,35.49548
+Lesotho,LSO,426,Africa,Southern Africa,SA,2,0,1,0,,,
+Latvia,LVA,428,,,,3,,,,,,
+Liberia,LBR,430,Africa,West Africa,WA,1,1,0,0,Monrovia,6.3007741,-10.79716
+Libya,LBY,434,Middle East,Office of Middle East Programs,OMEP,2,0,1,0,,,
+Liechtenstein,LIE,438,,,,3,,,,,,
+Lithuania,LTU,440,,,,3,,,,,,
+Luxembourg,LUX,442,,,,3,,,,,,
+Macau,MAC,446,,,,3,,,,,,
+Madagascar,MDG,450,Africa,Southern Africa,SA,1,1,0,0,Antananarivo,-18.914871,47.531612
+Malawi,MWI,454,Africa,Southern Africa,SA,1,1,0,0,Lilongwe,-13.983333,33.783333
+Malaysia,MYS,458,,,,3,,,,,,
+Maldives,MDV,462,Asia,,,2,0,1,0,,,
+Mali,MLI,466,Africa,West Africa,WA,1,1,0,0,Bamako,12.65,-8
+Malta,MLT,470,,,,3,,,,,,
+Martinique,MTQ,474,,,,3,,,,,,
+Mauritania,MRT,478,Africa,West Africa,WA,2,0,1,0,,,
+Mauritius,MUS,480,,,,3,,,,,,
+Mexico,MEX,484,Latin America and the Carribean,,,1,1,0,0,Mexico City,19.432608,-99.133209
+Midway Islands,UMI,488,,,,3,,,,,,
+Monaco,MCO,492,,,,3,,,,,,
+Mongolia,MNG,496,Asia,,,1,1,0,0,Ulaanbaatar,47.921379,106.90554
+Moldova,MDA,498,Europe and Eurasia,"Ukraine, Belarus and Moldova",UBM,1,1,0,0,Chisinau,47.026859,28.841551
+Montenegro,MNE,499,Europe and Eurasia,Regional Service Center,RSC,1,1,0,0,Podgorica,42.442574,19.268646
+Montserrat,MSR,500,,,,3,,,,,,
+Morocco,MAR,504,Middle East,Office of Middle East Programs,OMEP,1,1,0,0,Rabat,34.015049,-6.8327198
+Mozambique,MOZ,508,Africa,Southern Africa,SA,1,1,0,1,Maputo,-25.966667,32.583332
+Oman,OMN,512,,,,3,,,,,,
+Namibia,NAM,516,Africa,Southern Africa,SA,1,1,0,0,Windhoek,-22.558905,17.082481
+Nauru,NRU,520,Asia,Pacific Islands,PI,2,0,1,0,,,
+Nepal,NPL,524,Asia,,,1,1,0,0,Kathmandu,27.700001,85.333336
+Netherlands,NLD,528,,,,3,,,,,,
+Netherlands Antilles,ANT,530,,,,3,,,,,,
+Aruba,ABW,533,,,,3,,,,,,
+New Caledonia,NCL,540,,,,3,,,,,,
+Vanuatu,VUT,548,Asia,Pacific Islands,PI,2,0,1,0,,,
+New Zealand,NZL,554,,,,3,,,,,,
+Nicaragua,NIC,558,Latin America and the Carribean,Central America,CA,1,1,0,0,Managua,12.136389,-86.251389
+Niger,NER,562,Africa,West Africa,WA,1,1,0,0,Niamey,13.512668,2.1125159
+Nigeria,NGA,566,Africa,West Africa,WA,1,1,0,0,Abuja,9.0666666,7.4833331
+Niue,NIU,570,,,,3,,,,,,
+Norfolk Island,NFK,574,,,,3,,,,,,
+Norway,NOR,578,,,,3,,,,,,
+Northern Mariana Islands,MNP,580,,,,3,,,,,,
+Federated States of Micronesia,FSM,583,Asia,Pacific Islands,PI,2,0,1,0,,,
+Marshall Islands,MHL,584,Asia,Pacific Islands,PI,2,0,1,0,,,
+Palau,PLW,585,Asia,Pacific Islands,PI,2,0,1,0,,,
+Pakistan,PAK,586,Afghanistan and Pakistan,,,1,1,0,1,Islamabad,33.718151,73.060547
+Panama,PAN,591,Latin America and the Carribean,Central America,CA,1,1,0,0,Panama City,8.9942694,-79.518791
+Papua New Guinea,PNG,598,Asia,Pacific Islands,PI,1,1,0,0,Port Moresby,-9.4815531,147.19025
+Paraguay,PRY,600,Latin America and the Carribean,South America Regional Program,SARP,1,1,0,0,Asuncion,-25.282198,-57.635101
+Peru,PER,604,Latin America and the Carribean,South America Regional Program,SARP,1,1,0,1,Lima,-12.047816,-77.062202
+Philippines,PHL,608,Asia,,,1,1,0,1,Manila,14.599512,120.98422
+Pitcairn Islands,PCN,612,,,,3,,,,,,
+Poland,POL,616,,,,3,,,,,,
+Portugal,PRT,620,,,,3,,,,,,
+Guinea-Bissau,GNB,624,,,,3,,,,,,
+Timor-Leste,TLS,626,Asia,,,1,1,0,0,Dili,-8.5584583,125.57815
+Puerto Rico,PRI,630,,,,3,,,,,,
+Qatar,QAT,634,,,,3,,,,,,
+Reunion,REU,638,,,,3,,,,,,
+Romania,ROU,642,,,,3,,,,,,
+Russia,RUS,643,Europe and Eurasia,,,1,1,0,0,Moscow,55.755825,37.617298
+Rwanda,RWA,646,Africa,East Africa,EA,2,0,1,0,,,
+St Helena,SHN,654,,,,3,,,,,,
+St Kitts and Nevis,KNA,659,Latin America and the Carribean,Barbados and Easter Caribbean,EC,2,0,1,0,,,
+Anguilla,AIA,660,,,,3,,,,,,
+St Lucia,LCA,662,Latin America and the Carribean,Barbados and Easter Caribbean,EC,2,0,1,0,,,
+St Pierre and Miquelon,SPM,666,,,,3,,,,,,
+St Vincent and the Grenadines,VCT,670,Latin America and the Carribean,Barbados and Easter Caribbean,EC,2,0,1,0,,,
+San Marino,SMR,674,,,,3,,,,,,
+Sao Tome and Principe,STP,678,,,,3,,,,,,
+Saudi Arabia,SAU,682,,,,3,,,,,,
+Senegal,SEN,686,Africa,West Africa,WA,1,1,0,0,Dakar,14.764504,-17.36603
+Serbia,SRB,688,Europe and Eurasia,Regional Service Center,RSC,1,1,0,0,Belgrade,44.820557,20.462221
+Seychelles,SYC,690,,,,3,,,,,,
+Sierra Leone,SLE,694,Africa,West Africa,WA,1,1,0,0,Freetown,8.4841461,-13.22867
+Singapore,SGP,702,,,,3,,,,,,
+Slovakia,SVK,703,,,,3,,,,,,
+Vietnam,VNM,704,Asia,,,1,1,0,0,Hanoi,21.033333,105.85
+Slovenia,SVN,705,,,,3,,,,,,
+Somalia,SOM,706,Africa,East Africa,EA,2,0,1,0,,,
+South Africa,ZAF,710,Africa,Southern Africa,SA,1,1,0,1,Pretoria,-25.73134,28.21837
+Zimbabwe,ZWE,716,Africa,Southern Africa,SA,1,1,0,0,Harare,-17.82922,31.053961
+Spain,ESP,724,,,,3,,,,,,
+Western Sahara,ESH,732,,,,3,,,,,,
+Sudan,SDN,736,Africa,,,1,1,0,0,Khartoum,15.550101,32.532242
+Suriname,SUR,740,Latin America and the Carribean,Barbados and Easter Caribbean,EC,2,0,1,0,,,
+Svalbard,SJM,744,,,,3,,,,,,
+Swaziland,SWZ,748,Africa,Southern Africa,SA,2,0,1,0,,,
+Sweden,SWE,752,,,,3,,,,,,
+Switzerland,CHE,756,,,,3,,,,,,
+Syria,SYR,760,Middle East,,,2,0,1,0,,,
+Tajikistan,TJK,762,Asia,Central Asian Republics,CAR,1,1,0,0,Dushanbe,38.536667,68.779999
+Thailand,THA,764,Asia,Regional Development Mission for Asia,RDMA,2,0,1,0,,,
+Togo,TGO,768,Africa,West Africa,WA,2,0,1,0,,,
+Tokelau,TKL,772,,,,3,,,,,,
+Tonga,TON,776,Asia,Pacific Islands,PI,2,0,1,0,,,
+Trinidad and Tobago,TTO,780,Latin America and the Carribean,Barbados and Easter Caribbean,EC,2,0,1,0,,,
+United Arab Emirates,ARE,784,,,,3,,,,,,
+Tunisia,TUN,788,Middle East,Office of Middle East Programs,OMEP,2,0,1,0,,,
+Turkey,TUR,792,,,,3,,,,,,
+Turkmenistan,TKM,795,Asia,Central Asian Republics,CAR,1,1,0,0,Ashgabad,37.933334,58.366669
+Turks and Caicos Islands,TCA,796,,,,3,,,,,,
+Tuvalu,TUV,798,Asia,Pacific Islands,PI,2,0,1,0,,,
+Uganda,UGA,800,Africa,East Africa,EA,1,1,0,1,Kampala,.313611,32.581112
+Ukraine,UKR,804,Europe and Eurasia,"Ukraine, Belarus and Moldova",UBM,1,1,0,0,Kyiv,50.4501,30.523399
+Macedonia,MKD,807,Europe and Eurasia,Regional Service Center,RSC,1,1,0,0,Skopje,41.997345,21.427996
+Egypt,EGY,818,Middle East,Office of Middle East Programs,OMEP,1,1,0,1,Cairo,30.04442,31.235712
+United Kingdom,GBR,826,,,,3,,,,,,
+Isle of Man,IMN,833,,,,3,,,,,,
+Tanzania,TZA,834,Africa,Southern Africa,SA,1,1,0,0,Dar es Salaam,-6.8229208,39.269661
+United States,USA,840,,,,3,,,,,,
+Virgin Islands,VIR,850,,,,3,,,,,,
+Burkina Faso,BFA,854,Africa,West Africa,WA,1,1,0,0,Ouagadougou,12.364637,-1.533864
+Uruguay,URY,858,,,,3,,,,,,
+Uzbekistan,UZB,860,Asia,Central Asian Republics,CAR,1,1,0,0,Tashkent,41.266666,69.216667
+Venezuela,VEN,862,,,,3,,,,,,
+Wake Island,UMI,872,,,,3,,,,,,
+Wallis and Futuna,WLF,876,,,,3,,,,,,
+Samoa,WSM,882,Asia,Pacific Islands,PI,2,0,1,0,,,
+Yemen,YEM,887,Middle East,Office of Middle East Programs,OMEP,1,1,0,1,Sana'a,15.352029,44.207455
+Zambia,ZMB,894,Africa,Southern Africa,SA,1,1,0,0,Lusaka,-15.408193,28.287167
+South Sudan,OD,900,Africa,,,1,1,0,0,Juba,4.8499999,31.6
+Paracel Islands,xxx,901,,,,3,,,,,,
+Kosovo,KV,902,Europe and Eurasia,Regional Service Center,RSC,1,1,0,0,Pristina,42.672421,21.164539
+Juan De Nova Island,yyy,903,,,,3,,,,,,
+Jan Mayen,SJM,904,,,,3,,,,,,
+Howland Island,UMI,905,,,,3,,,,,,
