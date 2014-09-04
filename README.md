@@ -1,3 +1,3 @@
 FAD
 ===
-Processing foreign assistance data.
+Code for downloading and processing foreign assistance data.
