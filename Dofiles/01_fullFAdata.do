@@ -16,8 +16,11 @@ capture log close
 log using "$pathlog/FullFAD.log", replace
 
 *Download data from FAD website (www.foreignassistance.gov) & unzip it
-copy http://www.foreignassistance.gov/web/Documents/Full_ForeignAssistanceData.zip $pathin/Full_ForeignAssistanceData.zip, replace 
-unzipfile $pathin/Full_ForeignAssistanceData.zip, replace 
+* copy http://www.foreignassistance.gov/web/Documents/Full_ForeignAssistanceData.zip $pathin/Full_ForeignAssistanceData.zip, replace 
+* unzipfile $pathin/Full_ForeignAssistanceData.zip, replace 
+
+*TODO: updat to check if file exists and download if not.
+
 
 * Import the Planned data (may have to change the cellrange)
 import excel "$pathin\Full_ForeignAssistanceData.xlsx", sheet("Planned") cellrange(A3:H19752) firstrow
@@ -346,7 +349,6 @@ save "$pathout\AnnualSpentAndObligated.dta", replace
 
 * Fix country names
 clonevar Country = OperatingUnit
-
 replace Country = "Bosnia and Herzegovina" if Country == "Bosnia-Hercegovina"
 replace Country = "China" if Country == "China, People's Republic"
 replace Country = "Taiwan" if Country == "China, Republic of (Taiwan)"
@@ -370,8 +372,23 @@ replace Country = upper(Country)
 merge m:m Country using "U:\ForeignAssistanceData\Datain\CountryNamesBase.dta"
 drop if _merge==2
 
+merge m:m Country using "U:\ForeignAssistanceData\Datain\CountryLinks.dta", gen(_merge2)
+drop if _merge2==2
+
+* Create a logged term for annual sector spent for symbolizing in ArcMap
+g logAnnualSectorSpent = log10(AnnualSectorSpent)
+
+* Bring in transaction counts
+merge m:m Country using "U:\ForeignAssistanceData\Dataout\transactionsCounts.dta", gen(_merge3)
+drop if _merge3==2
+
+save "$pathout\AnnualSpentAndObligated.dta", replace
+
 * Export FAD data to a csv
+preserve
+drop _merge*
 export delimited using "$pathexport\FAdashboard.csv", replace
+restore
 
 *Questions for Kim
 * How do we resolve negative obligations and spending?
